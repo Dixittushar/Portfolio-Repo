@@ -31,7 +31,9 @@ const Navbar = () => {
               color: "white",
               marginBottom: "20;",
               cursor: "pointer",
+              textDecoration: "none",
             }}
+            href="/"
           >
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
           </a>
